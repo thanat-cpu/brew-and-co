@@ -18,8 +18,9 @@ export function Footer() {
           <span className="font-body text-micro font-medium uppercase tracking-wider text-cream">
             Hours
           </span>
-          <span>Mon–Fri · 7:30am – 5:00pm</span>
-          <span>Sat–Sun · 8:30am – 5:00pm</span>
+          <span>Mon–Fri · 6:00am – 8:00pm</span>
+          <span>Sat · 7:00am – 9:00pm</span>
+          <span>Sun · 8:30am – 5:00pm</span>
         </div>
 
         <div className="flex flex-col gap-2 font-body text-caption text-cream/70">
